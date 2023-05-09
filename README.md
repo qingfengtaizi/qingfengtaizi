@@ -39,7 +39,7 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-000?&logo=MATLAB&labelColor=000)
 ![NodeJS](https://img.shields.io/badge/Nest.js-000?&logo=NodeJS&labelColor=000)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-000?&logo=Elasticsearch&labelColor=000)
-![Apache Solr](https://img.shields.io/badge/Apache Solr-000?&logo=Apache Solr&labelColor=000)
+![ApacheSolr](https://img.shields.io/badge/ApacheSolr-000?&logo=ApacheSolr&labelColor=000)
 
 ![](https://img.shields.io/badge/FE:-deepskyblue)
 ![React](https://img.shields.io/badge/React-000?&logo=React&labelColor=000)
