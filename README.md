@@ -36,10 +36,10 @@
 ![Jersey](https://img.shields.io/badge/Jersey-000?&logoJersey&labelColor=000)
 ![Hadoop](https://img.shields.io/badge/Hadoop-000?&logo=Hadoop&labelColor=000)
 ![Flask](https://img.shields.io/badge/Flask-000?&logo=Flask&labelColor=000)
-![MATLAB](https://img.shields.io/badge/MATLAB.js-000?&logo=MATLAB&labelColor=000)
+![MATLAB](https://img.shields.io/badge/MATLAB-000?&logo=MATLAB&labelColor=000)
 ![NodeJS](https://img.shields.io/badge/Nest.js-000?&logo=NodeJS&labelColor=000)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-000?&logo=Elasticsearch&labelColor=000)
-![Solr](https://img.shields.io/badge/Solr-000?&logo=Solr&labelColor=000)
+![Apache Solr](https://img.shields.io/badge/Apache Solr-000?&logo=Apache Solr&labelColor=000)
 
 ![](https://img.shields.io/badge/FE:-deepskyblue)
 ![React](https://img.shields.io/badge/React-000?&logo=React&labelColor=000)
