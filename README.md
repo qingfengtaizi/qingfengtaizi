@@ -78,7 +78,7 @@
 **浏览量**
 
 <a href="https://github.com/qingfengtaizi">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=qingfengtaizi.qingfengtaizi" alt="Vistor">
+    <img src="https://github-readme-stats.vercel.app/api?username=qingfengtaizi&show_icons=true" alt="Vistor">
 </a>
 
 <p>
