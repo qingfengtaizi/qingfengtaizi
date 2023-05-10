@@ -11,7 +11,7 @@
 **语言**
 
 ![](https://img.shields.io/badge/日常:-blue)
-![JAVA](https://img.shields.io/badge/JAVA-000?&logo=JAVA&labelColor=000)
+![Java](https://img.shields.io/badge/Java-000?&logo=Java&labelColor=000)
 ![Python](https://img.shields.io/badge/Python-000?&logo=Python&labelColor=000)
 ![Docker](https://img.shields.io/badge/Docker-000?&logo=Docker&labelColor=000)
 ![HTML](https://img.shields.io/badge/HTML-000?&logo=HTML5&labelColor=000)
