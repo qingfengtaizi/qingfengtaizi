@@ -2,7 +2,7 @@
 **简介**
 
 ![About me](https://img.shields.io/badge/About%20me-000?&logo=About.me&labelColor=000)<br />
-👨‍💻全栈菜鸟。日常除了关注前后端、移动/桌面端之外，也关注 Web3.0/元宇宙/区块链/NFT，人工智能、OpenAi等新兴技术和自媒体等行业。
+👨‍💻一个向往田园生活的全栈佬鸟。日常除了关注前后端、移动之外，也关注 Web3.0/元宇宙/区块链/NFT，人工智能、OpenAi等新兴技术和自媒体等行业。
 
 **网站**
 
